@@ -1,0 +1,10 @@
+name: MCPlugin
+version: 1.0-SNAPSHOT
+author: ThatAnonyG
+main: com.example.MCPlugin.Main
+description: My first Minecraft economy plugin
+
+commands:
+  econ:
+    description: Give/see/remove player's money
+    usage: /econ add/remove/show <Player> [Amount]
